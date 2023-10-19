@@ -1,2 +1,2 @@
 # make_magic_happen
-Mak
+M
